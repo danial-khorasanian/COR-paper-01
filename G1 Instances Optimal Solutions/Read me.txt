@@ -1,1 +1,0 @@
-Solution_number of jobs_number of machines_problem number: includes the optimal solution of the problem described
